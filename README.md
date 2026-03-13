@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# password-strength-checker" 
 "# password-strength-checking-tool" 
 "# password-checker-tool" 
+"# password-strength-checker-tool" 
