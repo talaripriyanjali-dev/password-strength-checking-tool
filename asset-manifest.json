@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/password-strength-checker-tool/static/css/main.1e3709e6.css",
-    "main.js": "/password-strength-checker-tool/static/js/main.33b63fde.js",
-    "static/js/453.0fbe5d5d.chunk.js": "/password-strength-checker-tool/static/js/453.0fbe5d5d.chunk.js",
-    "index.html": "/password-strength-checker-tool/index.html",
-    "main.1e3709e6.css.map": "/password-strength-checker-tool/static/css/main.1e3709e6.css.map",
-    "main.33b63fde.js.map": "/password-strength-checker-tool/static/js/main.33b63fde.js.map",
-    "453.0fbe5d5d.chunk.js.map": "/password-strength-checker-tool/static/js/453.0fbe5d5d.chunk.js.map"
+    "main.css": "/password-strength-checking-tool/static/css/main.1e3709e6.css",
+    "main.js": "/password-strength-checking-tool/static/js/main.e0bba3dc.js",
+    "static/js/453.0fbe5d5d.chunk.js": "/password-strength-checking-tool/static/js/453.0fbe5d5d.chunk.js",
+    "index.html": "/password-strength-checking-tool/index.html",
+    "main.1e3709e6.css.map": "/password-strength-checking-tool/static/css/main.1e3709e6.css.map",
+    "main.e0bba3dc.js.map": "/password-strength-checking-tool/static/js/main.e0bba3dc.js.map",
+    "453.0fbe5d5d.chunk.js.map": "/password-strength-checking-tool/static/js/453.0fbe5d5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e3709e6.css",
-    "static/js/main.33b63fde.js"
+    "static/js/main.e0bba3dc.js"
   ]
 }
